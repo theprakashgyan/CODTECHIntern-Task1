@@ -1,13 +1,8 @@
 **Name:** Gyan Prakash
-
 **Company:** CODTECH IT SOLUTION
-
 **ID:** CT4CC5029
-
 **Domain:** Cloud Computing
-
 **Duration:** JULY 15th, 2024 to AUGUST 15th, 2024
-
 **Mentor:** Muzammil Ahmed
 
 ## Overview of the Project
