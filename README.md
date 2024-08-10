@@ -19,17 +19,25 @@
 The objective of this task is to learn and demonstrate the ability to deploy a simple web application using Amazon Web Services (AWS). This involves gaining practical experience with cloud deployment by setting up a server, configuring the web application, and ensuring it is accessible online. 
 
 ### Key Activities
+
 -**Confuiguring Security and Access**: Configure any necessary firewalls or access controls to secure your application.
+
 -**Testing and Monitoring**: Test the web application to ensure it is accessible and functioning correctly.
+
 -**Deploying the Web Application**: Set the necessary file permissions and ensure the application is correctly configured to run on the server.
 
 ### Technology Used
 
 -**Amazon Web Services (AWS)**: (A2C)For launching and managing virtual servers in the cloud.
+
 -**Operating System**: Linux (e.g., Amazon Linux, Ubuntu): The operating system running on the EC2 instance.
+
 -**Web Servers**: For launching and managing virtual servers in the cloud.
+
 -**SSH (Secure Shell)**: For securely accessing and managing the EC2 instance remotely.
+
 -**Security Technologies**: For managing inbound and outbound traffic to the EC2 instance.
+
 -**Web Application Framework**: HTML, CSS, JavaScript as For frontend web development.
 
 ### Key Insights
