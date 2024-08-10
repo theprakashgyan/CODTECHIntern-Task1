@@ -59,7 +59,24 @@ The objective of this task is to learn and demonstrate the ability to deploy a s
 
 ### Procedure
 
+*1*: After login into Amazon AWS, Visit the EC2 instance 
 ![Screenshot 2024-08-10 114026](https://github.com/user-attachments/assets/4e970961-45f2-4e12-b2c9-84118d85b0be)
 
+*2*: Then we will directed to the another webpage, then we will click here to *launch instance*, then we will proceed to next step 
+where, we will fill all required info about *Name*, *AMI* etc, we will have the new instance live after few seconds.
+![Screenshot 2024-08-10 172848](https://github.com/user-attachments/assets/b000b860-daf8-4604-9cc2-ec8472087120)
+
+*3*: Then we will click in *Required Instance*, then click on *connect* for further proceed. As we click, we will have console.
+![Screenshot 2024-08-10 112802](https://github.com/user-attachments/assets/da66d005-fa3d-4322-85ac-6251e72f407a)
+
+*4*: In console, we will run various cmd for updation, upload github wepage link, uploading webpages file.
+![Screenshot 2024-08-10 111555](https://github.com/user-attachments/assets/1ced6d26-3d7a-4a0e-b308-46455e0c4c25)
+![Screenshot 2024-08-10 112014](https://github.com/user-attachments/assets/bfe13393-24cc-4070-8bb8-ba8f323394f2)
+
+*5*: Then, by Selecting the instance , gone to *Security Groups* & in *inbound rules*, we will change it to *https* & *https*, for public accessible all over the internet.
+![Screenshot 2024-08-10 112802](https://github.com/user-attachments/assets/f81cac53-0ed2-4975-bbc5-e90be6dae0ed)
+
+*6*: Then, we will seen that our webpage got live, while accessing through the *public ip address*
+![Screenshot 2024-08-10 174536](https://github.com/user-attachments/assets/f134a843-a567-4090-b7ae-1571a3b9a574)
 
 
