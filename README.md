@@ -56,3 +56,10 @@ The objective of this task is to learn and demonstrate the ability to deploy a s
 
 5. **Deployment Workflow**:
    - Understood the end-to-end process of deploying a web application, from setting up the server to making the application live on the internet, which is crucial for full-stack development.
+
+### Procedure
+
+![Screenshot 2024-08-10 114026](https://github.com/user-attachments/assets/4e970961-45f2-4e12-b2c9-84118d85b0be)
+
+
+
